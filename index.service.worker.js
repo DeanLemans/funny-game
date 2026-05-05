@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1778024338|17015347';
+const CACHE_VERSION = '1778024355|17579979';
 /** @type {string} */
 const CACHE_PREFIX = 'rpg | NDG-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
